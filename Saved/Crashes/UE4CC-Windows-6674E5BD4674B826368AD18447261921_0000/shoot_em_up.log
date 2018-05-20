@@ -1,0 +1,657 @@
+﻿Log file open, 05/17/18 17:42:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: shoot_em_up
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-611576542) SRandInit(-611576542).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.183000
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.111s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am ALUNO_20 (10.16.4.25:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.17-20.42.40:918][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.17-20.42.40:918][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.17-20.42.40:932][  0]LogInit: Computer: ALUNO_20
+[2018.05.17-20.42.40:932][  0]LogInit: User: con8993080
+[2018.05.17-20.42.40:932][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.17-20.42.40:932][  0]LogInit: High frequency timer resolution =3.312796 MHz
+[2018.05.17-20.42.40:932][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.05.17-20.42.40:932][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-20.42.40:932][  0]LogMemory: Process Physical Memory: 276.63 MB used, 276.63 MB peak
+[2018.05.17-20.42.40:932][  0]LogMemory: Process Virtual Memory: 269.80 MB used, 269.80 MB peak
+[2018.05.17-20.42.40:932][  0]LogMemory: Physical Memory: 4501.59 MB used,  3644.91 MB free, 8146.50 MB total
+[2018.05.17-20.42.40:932][  0]LogMemory: Virtual Memory: 687.98 MB used,  3644.91 MB free, 134217728.00 MB total
+[2018.05.17-20.42.40:947][  0]LogInit: Using OS detected language (pt-BR).
+[2018.05.17-20.42.40:947][  0]LogInit: Using OS detected locale (pt-BR).
+[2018.05.17-20.42.41:285][  0]LogStreaming: Display: Took  0.338s to EndInitTextLocalization.
+[2018.05.17-20.42.41:285][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.17-20.42.41:327][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.17-20.42.41:327][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.17-20.42.41:521][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.17-20.42.41:530][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7000 series' (Feature Level 11_0)
+[2018.05.17-20.42.41:530][  0]LogD3D11RHI:       1008/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.05.17-20.42.41:532][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.17-20.42.41:532][  0]LogD3D11RHI:       0/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.17-20.42.41:532][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.17-20.42.41:537][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.17-20.42.41:537][  0]LogD3D11RHI:     GPU DeviceId: 0x6778 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.17-20.42.41:537][  0]LogWindows: EnumDisplayDevices:
+[2018.05.17-20.42.41:538][  0]LogWindows:    0. 'AMD Radeon HD 7000 series' (P:1 D:1)
+[2018.05.17-20.42.41:538][  0]LogWindows:    1. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.05.17-20.42.41:538][  0]LogWindows:    2. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.05.17-20.42.41:538][  0]LogWindows:    3. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.05.17-20.42.41:538][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.17-20.42.41:538][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7000 series
+[2018.05.17-20.42.41:538][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.17-20.42.41:538][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.17-20.42.41:538][  0]LogRHI: Texture pool is 706 MB (70% of 1008 MB)
+[2018.05.17-20.42.41:556][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.05.17-20.42.41:563][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.17-20.42.41:575][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.05.17-20.42.41:576][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Intermediate/Shaders/WorkingDirectory/9052/).
+[2018.05.17-20.42.41:576][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/con8993080/AppData/Local/Temp/UnrealShaderWorkingDir/7181FD7245EF0260620DE8AF0D3CB4BF/'.
+[2018.05.17-20.42.41:788][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.17-20.42.41:802][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.17-20.42.41:817][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.17-20.42.41:831][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.17-20.42.41:845][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.17-20.42.41:860][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.17-20.42.41:874][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.17-20.42.41:889][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.17-20.42.41:896][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.17-20.42.41:908][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.17-20.42.41:921][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.17-20.42.41:934][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.17-20.42.41:947][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.17-20.42.41:960][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.17-20.42.41:974][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.17-20.42.42:000][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.17-20.42.42:000][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.17-20.42.42:013][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.17-20.42.42:015][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.17-20.42.42:053][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.17-20.42.42:067][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.17-20.42.42:080][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.17-20.42.42:094][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.17-20.42.42:108][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.17-20.42.42:122][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.17-20.42.42:122][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.17-20.42.42:245][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.17-20.42.42:245][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.17-20.42.42:245][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.17-20.42.43:011][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.17-20.42.43:074][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/con8993080/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.17-20.42.43:074][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/con8993080/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.17-20.42.43:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.17-20.42.43:074][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.17-20.42.43:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.17-20.42.43:074][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.17-20.42.43:090][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.17-20.42.43:103][  0]LogDerivedDataCache: Using Local data cache path C:/Users/con8993080/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.17-20.42.43:103][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.17-20.42.43:103][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.17-20.42.43:116][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.17-20.42.43:117][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.17-20.42.43:117][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.17-20.42.43:117][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.17-20.42.43:244][  0]LogAssetRegistry: FAssetRegistry took 0.0275 seconds to start up
+[2018.05.17-20.42.43:616][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.17-20.42.43:768][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.17-20.42.43:771][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.17-20.42.43:771][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.17-20.42.43:771][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.17-20.42.43:771][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.17-20.42.43:771][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.17-20.42.43:803][  0]LogNetVersion: shoot_em_up , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 287252442)
+[2018.05.17-20.42.44:250][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.078141 seconds
+[2018.05.17-20.42.44:256][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.17-20.42.44:256][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.17-20.42.44:256][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.17-20.42.45:980][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.17-20.42.46:012][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.17-20.42.46:415][  0]SourceControl: Controle de origem desativado
+[2018.05.17-20.42.46:415][  0]SourceControl: Controle de origem desativado
+[2018.05.17-20.42.46:436][  0]SourceControl: Controle de origem desativado
+[2018.05.17-20.42.46:456][  0]SourceControl: Controle de origem desativado
+[2018.05.17-20.42.47:007][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.17-20.42.47:152][  0]LogOcInput: OculusInput pre-init called
+[2018.05.17-20.42.47:267][  0]LogEngine: Initializing Engine...
+[2018.05.17-20.42.47:268][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.17-20.42.47:269][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.17-20.42.47:270][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.17-20.42.47:478][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.17-20.42.47:492][  0]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.42.47:523][  0]LogInit: FAudioDevice initialized.
+[2018.05.17-20.42.47:647][  0]LogDerivedDataCache: Saved boot cache 0.12s 74MB C:/Users/con8993080/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.17-20.42.47:659][  0]LogInit: Texture streaming: Enabled
+[2018.05.17-20.42.47:675][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.17-20.42.47:691][  0]LogInit: Transaction tracking system initialized
+[2018.05.17-20.42.47:717][  0]BlueprintLog: New page: Carregar Editor
+[2018.05.17-20.42.47:794][  0]LocalizationService: Localization service is disabled
+[2018.05.17-20.42.47:893][  0]LogConsoleResponse: Display: 
+[2018.05.17-20.42.48:038][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.17-20.42.48:038][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.17-20.42.48:038][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.17-20.42.48:038][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.17-20.42.48:038][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.17-20.42.48:111][  0]LogFileCache: Scanning file cache for directory 'C:/Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Content/' took 0.01s
+[2018.05.17-20.42.48:439][  0]SourceControl: Controle de origem desativado
+[2018.05.17-20.42.48:439][  0]Cmd: MAP LOAD FILE="../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.17-20.42.48:439][  0]LightingResults: New page: Compilação de Iluminação
+[2018.05.17-20.42.48:443][  0]MapCheck: New page: Verificação de Mapa
+[2018.05.17-20.42.48:443][  0]LightingResults: New page: Compilação de Iluminação
+[2018.05.17-20.42.48:609][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216a9a2f500, Size=256, Default__TwinStickProjectile_C Function /Game/TwinStickBP/Blueprints/TwinStickProjectile.TwinStickProjectile_C:ExecuteUbergraph_TwinStickProjectile
+[2018.05.17-20.42.48:616][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216a9a2f500, Size=256
+[2018.05.17-20.42.48:616][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216a9a2f500, Size=256, Default__TwinStickProjectile_C Function /Engine/Transient.REINST_TwinStickProjectile_C_5:ExecuteUbergraph_TwinStickProjectile
+[2018.05.17-20.42.48:620][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216b716c680, Size=264, Default__TwinStickProjectile_C Function /Game/TwinStickBP/Blueprints/TwinStickProjectile.TwinStickProjectile_C:ExecuteUbergraph_TwinStickProjectile
+[2018.05.17-20.42.48:629][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216a9a26480, Size=536, Default__TwinStickPawn_C Function /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-20.42.48:641][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216a9a26480, Size=536
+[2018.05.17-20.42.48:641][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216a9a26480, Size=536, Default__TwinStickPawn_C Function /Engine/Transient.REINST_TwinStickPawn_C_7:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-20.42.48:648][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216a07a6e80, Size=536, Default__TwinStickPawn_C Function /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-20.42.48:820][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2018.05.17-20.42.48:820][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.05.17-20.42.48:820][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.05.17-20.42.49:237][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.05.17-20.42.49:237][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2018.05.17-20.42.49:237][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.05.17-20.42.49:237][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.05.17-20.42.49:455][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 128X64)
+[2018.05.17-20.42.49:455][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2018.05.17-20.42.49:455][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2018.05.17-20.42.49:455][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.05.17-20.42.49:455][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.05.17-20.42.49:485][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.17-20.42.49:532][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216a9a2f500, Size=256
+[2018.05.17-20.42.49:532][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216a9a26480, Size=536
+[2018.05.17-20.42.49:533][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.17-20.42.49:590][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55,891ms to complete.
+[2018.05.17-20.42.49:590][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 1.151
+[2018.05.17-20.42.49:810][  0]LogCollectionManager: Loaded 0 collections in 0.001772 seconds
+[2018.05.17-20.42.49:854][  0]LogFileCache: Scanning file cache for directory 'C:/Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Saved/Collections/' took 0.01s
+[2018.05.17-20.42.49:854][  0]LogFileCache: Scanning file cache for directory 'C:/Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Content/Developers/con8993080/Collections/' took 0.01s
+[2018.05.17-20.42.49:854][  0]LogFileCache: Scanning file cache for directory 'C:/Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Content/Collections/' took 0.01s
+[2018.05.17-20.42.49:854][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.17-20.42.49:865][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2452 classes and 558 folders.
+[2018.05.17-20.42.49:872][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.17-20.42.50:937][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.17-20.42.50:976][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.17-20.42.50:996][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.17-20.42.50:998][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.17-20.42.51:054][  0]LogSlate: Took 0.049746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.17-20.42.51:230][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.05.17-20.42.51:474][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-20.42.51:515][  0]LogSlate: Window 'Tutoriais' being destroyed
+[2018.05.17-20.42.51:544][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.17-20.42.51:544][  0]LogLoad: (Engine Initialization) Total time: 13.05 seconds
+[2018.05.17-20.42.51:544][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.17-20.42.51:903][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.17-20.42.51:961][  0]LogSlate: Took 0.025257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.17-20.42.52:223][  1]LogAssetRegistry: Asset discovery search completed in 9.0023 seconds
+[2018.05.17-20.42.52:225][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.17-20.42.52:225][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2018.05.17-20.42.52:886][  3]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.17-20.43.06:193][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-20.43.06:276][112]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-20.43.06:292][112]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-20.43.06:293][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.43.06:324][112]PIE: New page: Sessão de PIE : TwinStickExampleMap (17/05/2018 14:43:06)
+[2018.05.17-20.43.06:324][112]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.05.17-20.43.06:328][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004433s)
+[2018.05.17-20.43.06:329][112]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.05.17-20.43.06:329][112]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2018.05.17-20.43.06:329][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005267s)
+[2018.05.17-20.43.06:342][112]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.43.06:353][112]LogInit: FAudioDevice initialized.
+[2018.05.17-20.43.06:397][112]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.05.17-20.43.06:400][112]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2018.05.17-17.43.06
+[2018.05.17-20.43.06:400][112]LogWorld: Bringing up level for play took: 0.001306
+[2018.05.17-20.43.06:404][112]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.17-20.43.06:405][112]PIE: Momento de início de reprodução no editor para /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap -0,2
+[2018.05.17-20.43.06:405][112]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-20.43.27:828][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-20.43.27:927][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-20.43.29:177][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-20.46.01:639][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216c97e17e0, Size=88, Default__Landscape_Painting_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Painting_Mode.Landscape_Painting_Mode_C:ExecuteUbergraph_Landscape_Painting_Mode
+[2018.05.17-20.46.01:642][693]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216c97e17e0, Size=88
+[2018.05.17-20.46.01:642][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216c97e17e0, Size=88, Default__Landscape_Painting_Mode_C Function /Engine/Transient.REINST_Landscape_Painting_Mode_C_15:ExecuteUbergraph_Landscape_Painting_Mode
+[2018.05.17-20.46.01:645][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216c8996f20, Size=80, Default__Landscape_Painting_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Painting_Mode.Landscape_Painting_Mode_C:ExecuteUbergraph_Landscape_Painting_Mode
+[2018.05.17-20.46.01:654][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216c97e01c0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.05.17-20.46.01:657][693]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216c97e01c0, Size=88
+[2018.05.17-20.46.01:657][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216c97e01c0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Transient.REINST_Landscape_Sculpt_Mode_C_17:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.05.17-20.46.01:660][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216c8995b20, Size=80, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.05.17-20.46.01:671][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216c898b340, Size=64, Default__CreatingSigningCertAndProvisionTutorial_C Function /Engine/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.CreatingSigningCertAndProvisionTutorial_C:ExecuteUbergraph_CreatingSigningCertAndProvisionTutorial
+[2018.05.17-20.46.01:680][693]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216c898b340, Size=64
+[2018.05.17-20.46.01:680][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216c898a980, Size=64, Default__CreatingSigningCertAndProvisionTutorial_C Function /Engine/Transient.REINST_CreatingSigningCertAndProvisionTutorial_C_19:ExecuteUbergraph_CreatingSigningCertAndProvisionTutorial
+[2018.05.17-20.46.01:683][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216c8989000, Size=64, Default__CreatingSigningCertAndProvisionTutorial_C Function /Engine/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.CreatingSigningCertAndProvisionTutorial_C:ExecuteUbergraph_CreatingSigningCertAndProvisionTutorial
+[2018.05.17-20.46.01:731][693]LogSlate: Window 'Tutoriais' being destroyed
+[2018.05.17-20.46.01:744][693]LogSlate: Window 'Tutoriais' being destroyed
+[2018.05.17-20.46.13:206][796]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.05.17-20.46.13:599][796]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216ecdcd398, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.17-20.46.13:600][796]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216ecdcd390, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.17-20.46.14:298][796]LogSlate: Took 0.018117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.17-20.46.14:626][797]LogSlate: Took 0.023113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.17-20.46.32:834][974]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.05.17-20.47.10:746][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-20.47.30:679][421]LogEditorTransaction: Undo Modificar Componente(s)
+[2018.05.17-20.47.39:601][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-20.47.51:247][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-20.48.13:948][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-20.48.48:571][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-20.50.32:208][596]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-20.50.32:225][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-20.50.32:226][596]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.17-20.50.32:248][596]LogPlayLevel: [PlayLevel] Compiling TwinStickPawn before play...
+[2018.05.17-20.50.32:268][596]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216a07a6e80, Size=536
+[2018.05.17-20.50.32:268][596]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216ba6e5080, Size=536, Default__TwinStickPawn_C Function /Engine/Transient.REINST_TwinStickPawn_C_33:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-20.50.32:275][596]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216f5325300, Size=536, Default__TwinStickPawn_C Function /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-20.50.32:657][596]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216c898a980, Size=64
+[2018.05.17-20.50.32:657][596]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216c97e01c0, Size=88
+[2018.05.17-20.50.32:657][596]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216c97e17e0, Size=88
+[2018.05.17-20.50.32:657][596]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216ba6e5080, Size=536
+[2018.05.17-20.50.32:659][596]LogPlayLevel: PlayLevel: Blueprint regeneration took 434 ms (1 blueprints)
+[2018.05.17-20.50.32:660][596]PIE: New page: Sessão de PIE : TwinStickExampleMap (17/05/2018 14:50:32)
+[2018.05.17-20.50.32:660][596]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.05.17-20.50.32:664][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003757s)
+[2018.05.17-20.50.32:664][596]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.05.17-20.50.32:664][596]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2018.05.17-20.50.32:664][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.004754s)
+[2018.05.17-20.50.32:683][596]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.50.32:696][596]LogInit: FAudioDevice initialized.
+[2018.05.17-20.50.32:730][596]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.05.17-20.50.32:731][596]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2018.05.17-17.50.32
+[2018.05.17-20.50.32:732][596]LogWorld: Bringing up level for play took: 0.001129
+[2018.05.17-20.50.32:733][596]PIE: Momento de início de reprodução no editor para /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0,127
+[2018.05.17-20.50.32:733][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-20.50.44:818][753]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-20.50.44:919][753]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-20.50.45:564][761]Cmd: SELECT NONE
+[2018.05.17-20.50.47:860][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-20.51.52:262][329]Cmd: MODE GRID=0
+[2018.05.17-20.51.53:450][336]Cmd: MODE GRID=1
+[2018.05.17-20.53.48:597][ 43]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216f04ee998, Size=4, Default__SKEL_TwinStickPawn_C Function /Game/TwinStickBP/Blueprints/TwinStickPawn.SKEL_TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-20.54.13:664][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-20.54.20:351][252]BlueprintLog: New page: Compilar TwinStickPawn
+[2018.05.17-20.54.20:371][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216f04ee998, Size=4
+[2018.05.17-20.54.20:372][252]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216dd053848, Size=4, Default__SKEL_TwinStickPawn_C Function /Engine/Transient.REINST_SKEL_TwinStickPawn_C_37:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-20.54.20:392][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216f5325300, Size=536
+[2018.05.17-20.54.20:392][252]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216c0ecda80, Size=536, Default__TwinStickPawn_C Function /Engine/Transient.REINST_TwinStickPawn_C_39:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-20.54.20:398][252]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216f5325d00, Size=536, Default__TwinStickPawn_C Function /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-20.54.20:828][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216dd053848, Size=4
+[2018.05.17-20.55.09:435][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216c0ecda80, Size=536
+[2018.05.17-20.55.09:583][553]LogSavePackage: Save=134.71ms
+[2018.05.17-20.55.09:583][553]LogSavePackage: Moving '../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Saved/TwinStickExampleMap_Auto1ADCB2F2B4A41CCD104335F9083DE9A5F.tmp' to '../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap'
+[2018.05.17-20.55.09:585][553]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap
+[2018.05.17-20.55.09:589][553]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.178
+[2018.05.17-20.55.09:589][553]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.178
+[2018.05.17-20.55.09:592][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Blueprints/TwinStickPawn] ([1] browsable assets)...
+[2018.05.17-20.55.09:667][553]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn]
+[2018.05.17-20.55.09:667][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/TwinStickPawn]
+[2018.05.17-20.55.09:749][553]LogSavePackage: Save=73.38ms
+[2018.05.17-20.55.09:749][553]LogSavePackage: Moving '../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Saved/TwinStickPawn_Auto11C48C0C746DEE7548C256BACEF2AB011.tmp' to '../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Saved/Autosaves/Game/TwinStickBP/Blueprints/TwinStickPawn_Auto1.uasset'
+[2018.05.17-20.55.09:750][553]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Saved/Autosaves/Game/TwinStickBP/Blueprints/TwinStickPawn_Auto1.uasset
+[2018.05.17-20.55.09:750][553]LogFileHelpers: Auto-saving content packages took 0.160
+[2018.05.17-20.58.48:501][431]BlueprintLog: New page: Compilar TwinStickPawn
+[2018.05.17-20.58.48:550][431]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216f5325d00, Size=536
+[2018.05.17-20.58.48:550][431]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216ca13e700, Size=536, Default__TwinStickPawn_C Function /Engine/Transient.REINST_TwinStickPawn_C_47:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-20.58.48:555][431]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216f0a3e0f8, Size=8, Default__TwinStickPawn_C Function /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-20.58.52:773][468]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-20.58.52:806][468]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-20.58.52:806][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.58.52:807][468]PIE: New page: Sessão de PIE : TwinStickExampleMap (17/05/2018 14:58:52)
+[2018.05.17-20.58.52:807][468]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.05.17-20.58.52:810][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003703s)
+[2018.05.17-20.58.52:811][468]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.05.17-20.58.52:811][468]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2018.05.17-20.58.52:811][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.004723s)
+[2018.05.17-20.58.52:870][468]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.58.52:882][468]LogInit: FAudioDevice initialized.
+[2018.05.17-20.58.52:915][468]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.05.17-20.58.52:917][468]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2018.05.17-17.58.52
+[2018.05.17-20.58.52:917][468]LogWorld: Bringing up level for play took: 0.001095
+[2018.05.17-20.58.52:918][468]PIE: Momento de início de reprodução no editor para /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0,312
+[2018.05.17-20.58.52:918][468]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-20.58.57:828][532]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-20.58.57:928][532]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-20.59.00:409][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.17-21.05.34:398][354]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216f04ef2f8, Size=4, Default__SKEL_TwinStickPawn_C Function /Game/TwinStickBP/Blueprints/TwinStickPawn.SKEL_TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-21.07.06:257][884]LogSavePackage: Save=119.68ms
+[2018.05.17-21.07.06:257][884]LogSavePackage: Moving '../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Saved/TwinStickExampleMap_Auto2F76916094718F0B1D004E0B492901C16.tmp' to '../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto2.umap'
+[2018.05.17-21.07.06:258][884]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto2.umap
+[2018.05.17-21.07.06:260][884]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.161
+[2018.05.17-21.07.06:260][884]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.161
+[2018.05.17-21.07.06:265][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Blueprints/TwinStickPawn] ([1] browsable assets)...
+[2018.05.17-21.07.06:331][884]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn]
+[2018.05.17-21.07.06:331][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/TwinStickPawn]
+[2018.05.17-21.07.06:406][884]LogSavePackage: Save=67.17ms
+[2018.05.17-21.07.06:406][884]LogSavePackage: Moving '../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Saved/TwinStickPawn_Auto29BA14C98482A1F5777425C944AABB166.tmp' to '../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Saved/Autosaves/Game/TwinStickBP/Blueprints/TwinStickPawn_Auto2.uasset'
+[2018.05.17-21.07.06:408][884]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8993080/Documents/Unreal Projects/shoot_3m_up-master/Saved/Autosaves/Game/TwinStickBP/Blueprints/TwinStickPawn_Auto2.uasset
+[2018.05.17-21.07.06:408][884]LogFileHelpers: Auto-saving content packages took 0.144
+[2018.05.17-21.07.49:203][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-21.08.04:159][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-21.08.36:866][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-21.08.52:926][493]BlueprintLog: New page: Compilar TwinStickPawn
+[2018.05.17-21.08.52:947][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216f04ef2f8, Size=4
+[2018.05.17-21.08.52:947][493]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021701338960, Size=4, Default__SKEL_TwinStickPawn_C Function /Engine/Transient.REINST_SKEL_TwinStickPawn_C_55:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-21.08.52:966][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000216f0a3e0f8, Size=8
+[2018.05.17-21.08.52:967][493]LogUObjectGlobals: Created PersistentFrame Addr=0x000002170133a9f0, Size=8, TwinStickPawn_C_435 Function /Engine/Transient.REINST_TwinStickPawn_C_57:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-21.08.52:972][493]LogUObjectGlobals: Created PersistentFrame Addr=0x000002170133bcd8, Size=8, Default__TwinStickPawn_C Function /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-21.08.53:320][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021701338960, Size=4
+[2018.05.17-21.12.41:150][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-21.12.41:336][817]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-21.12.41:384][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-21.12.41:384][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-21.12.41:384][817]PIE: New page: Sessão de PIE : TwinStickExampleMap (17/05/2018 15:12:41)
+[2018.05.17-21.12.41:384][817]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.05.17-21.12.41:388][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003973s)
+[2018.05.17-21.12.41:389][817]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.05.17-21.12.41:389][817]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2018.05.17-21.12.41:389][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005011s)
+[2018.05.17-21.12.41:410][817]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002170133a9f0, Size=8
+[2018.05.17-21.12.41:510][817]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-21.12.41:522][817]LogInit: FAudioDevice initialized.
+[2018.05.17-21.12.41:558][817]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.05.17-21.12.41:559][817]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2018.05.17-18.12.41
+[2018.05.17-21.12.41:560][817]LogWorld: Bringing up level for play took: 0.001313
+[2018.05.17-21.12.41:561][817]PIE: Momento de início de reprodução no editor para /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0,955
+[2018.05.17-21.12.41:561][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-21.12.49:061][910]Set new viewmode: Wireframe
+[2018.05.17-21.12.49:372][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-21.12.49:417][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-21.12.49:969][927]Cmd: SELECT NONE
+[2018.05.17-21.12.50:927][937]Cmd: SELECT NONE
+[2018.05.17-21.12.53:674][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-21.12.53:764][964]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-21.12.53:781][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-21.12.53:781][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-21.12.53:781][964]PIE: New page: Sessão de PIE : TwinStickExampleMap (17/05/2018 15:12:53)
+[2018.05.17-21.12.53:781][964]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2018.05.17-21.12.53:785][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003466s)
+[2018.05.17-21.12.53:785][964]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2018.05.17-21.12.53:785][964]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2018.05.17-21.12.53:785][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.004240s)
+[2018.05.17-21.12.53:807][964]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-21.12.53:817][964]LogInit: FAudioDevice initialized.
+[2018.05.17-21.12.53:889][964]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.05.17-21.12.53:890][964]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2018.05.17-18.12.53
+[2018.05.17-21.12.53:891][964]LogWorld: Bringing up level for play took: 0.001151
+[2018.05.17-21.12.53:892][964]PIE: Momento de início de reprodução no editor para /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap -0,714
+[2018.05.17-21.12.53:892][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-21.12.57:572][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-21.12.57:685][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2018.05.17-21.13.04:105][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.17-21.13.29:740][280]LogEditorTransaction: Undo Selecionar Nada
+[2018.05.17-21.13.31:056][292]LogEditorTransaction: Undo Selecionar Nada
+[2018.05.17-21.13.31:281][294]LogEditorTransaction: Undo Set Location
+[2018.05.17-21.13.31:487][295]LogEditorTransaction: Undo Set Location
+[2018.05.17-21.13.31:659][296]LogEditorTransaction: Undo Modificar Componente(s)
+[2018.05.17-21.13.31:851][297]LogEditorTransaction: Undo Editar Comprimento do Braço Alvo
+[2018.05.17-21.13.32:636][305]LogEditorTransaction: Undo Anexar Componente
+[2018.05.17-21.13.32:841][306]LogEditorTransaction: Undo Criar Nova Raiz de Cena
+[2018.05.17-21.13.33:111][309]LogEditorTransaction: Undo Adicionar Componente
+[2018.05.17-21.13.33:219][309]LogUObjectGlobals: Created PersistentFrame Addr=0x00000217019c9240, Size=4, Default__SKEL_TwinStickPawn_C Function /Game/TwinStickBP/Blueprints/TwinStickPawn.SKEL_TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-21.13.34:194][312]LogEditorTransaction: Undo Renomear Variável do Componente
+[2018.05.17-21.13.36:060][330]LogEditorTransaction: Redo Renomear Variável do Componente
+[2018.05.17-21.13.36:272][332]LogEditorTransaction: Redo Adicionar Componente
+[2018.05.17-21.13.36:382][332]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_TwinStickPawn) bSelfContext == true, but no scope supplied!
+[2018.05.17-21.13.36:386][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000217019c9240, Size=4
+[2018.05.17-21.13.36:386][332]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216dd0534d8, Size=4, Default__SKEL_TwinStickPawn_C Function /Engine/Transient.REINST_SKEL_TwinStickPawn_C_61:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-21.13.36:390][332]LogUObjectGlobals: Created PersistentFrame Addr=0x00000216dd052f40, Size=4, Default__SKEL_TwinStickPawn_C Function /Game/TwinStickBP/Blueprints/TwinStickPawn.SKEL_TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.05.17-21.13.36:612][334]LogEditorTransaction: Redo Criar Nova Raiz de Cena
+[2018.05.17-21.13.37:293][335]LogEditorTransaction: Redo Anexar Componente
+[2018.05.17-21.13.37:414][335]LogEditorTransaction: Redo Editar Comprimento do Braço Alvo
+[2018.05.17-21.13.37:419][335]LogEditorTransaction: Redo Modificar Componente(s)
+[2018.05.17-21.13.37:422][335]LogEditorTransaction: Redo Set Location
+[2018.05.17-21.13.37:427][335]LogEditorTransaction: Redo Set Location
+[2018.05.17-21.13.37:630][338]LogEditorTransaction: Redo Selecionar Nada
+[2018.05.17-21.13.37:847][340]LogEditorTransaction: Redo Selecionar Nada
+[2018.05.17-21.15.52:300][571]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.782 s
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: 
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: Ensure condition failed: NodePtr == SceneRootNodePtr [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\Kismet\Private\SSCSEditor.cpp] [Line: 2770]
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: 
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: Stack: 
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x00000000508CB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000005062AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000005063ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000004BB1BDAF UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000004BAF6976 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000004BA4DE00 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000004BA5000E UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000004BAD83C0 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000004BAD4040 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000004BA8E956 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000004BB12B29 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000004FF455CB UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000004FF1749E UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000004FFAF862 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000004FF97D0D UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000004FF8B3E2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000006948E69B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x0000000069481B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000006949052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000006947D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x0000000099AFB85D USER32.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x0000000099AFB1EF USER32.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x0000000069491666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x00000000231D5475 UE4Editor.exe!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x00000000231E6BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x00000000231E6C4A UE4Editor.exe!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x00000000231F4177 UE4Editor.exe!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x00000000231F5B87 UE4Editor.exe!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x0000000099741FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: [Callstack] 0x000000009C2CF061 ntdll.dll!UnknownFunction []
+[2018.05.17-21.15.52:300][571]LogOutputDevice: Error: 
+[2018.05.17-21.15.52:309][571]LogStats:                SubmitErrorReport -  0.000 s
